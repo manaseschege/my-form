@@ -53,7 +53,7 @@ console.log(values)
         />
       
     <label>Password</label>
-        <input type="text" onChange={handleChange} 
+        <input type="text" onChange={handleChange}                                                  
                 placeholder="passsword" value={values.password} 
                 name="password"
         />
